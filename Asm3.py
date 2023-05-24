@@ -89,3 +89,4 @@ class Asm3(MovingCameraScene):
         self.wait()
         for _ in range(10):
             anim_butir()
+# TES
