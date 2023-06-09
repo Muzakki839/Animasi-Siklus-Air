@@ -333,8 +333,3 @@ class Asm3(MovingCameraScene):
         self.play(self.camera.frame.animate.move_to([0,3,0]).scale(0.1))
         self.wait()
         
-
-
-
-
-
